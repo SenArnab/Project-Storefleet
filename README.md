@@ -11,7 +11,7 @@ As a part of this exciting venture, your role includes:
 ## 📂 Getting Started
 Clone the GitHub repository to access the scaffold code and begin development.
 
-🔗 **GitHub Repository:** [Insert Link Here]
+🔗 **GitHub Repository:** [https://github.com/SenArnab/Project-Storefleet]
 
 ---
 ## 🔍 Key Objectives & Features
